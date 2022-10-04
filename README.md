@@ -1,5 +1,6 @@
 # introduce.github.io
-> [동의과학대학교 소개 웹앱](https://startling-crumble-6489f8.netlify.app/)
+> [동의과학대학교 소개 웹앱1](https://startling-crumble-6489f8.netlify.app/)
+> [동의과학대학교 소개 웹앱2](https://hosong2.github.io/introduce.github.io/)
 
 # 2022 Capstone
 ### 1. 학교소개
